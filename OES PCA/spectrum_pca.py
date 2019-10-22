@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Jan  5 12:36:19 2018
-
-@author: wuch3
-"""
 import pandas as pd
 import matplotlib.pyplot as plt
 from sklearn.decomposition import PCA

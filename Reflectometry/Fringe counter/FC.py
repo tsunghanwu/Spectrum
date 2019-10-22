@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Dec 18 13:50:28 2017
-
-@author: wuch3
-"""
 #%% Simulating raw data
 import pandas as pd
 import numpy as np
